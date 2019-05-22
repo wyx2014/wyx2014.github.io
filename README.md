@@ -1,2 +1,1 @@
-# liu-hn-cn.github.io
-https://liu.hn.cn/
+https://www.wangyb.top/
